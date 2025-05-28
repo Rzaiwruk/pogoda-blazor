@@ -5,6 +5,8 @@
 		<OutputType>Exe</OutputType>
 		<Nullable>enable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
+  <OutputPath>bin\Release\net8.0\publish\</OutputPath>
+  <StaticWebAssetBasePath>wwwroot</StaticWebAssetBasePath>
 	</PropertyGroup>
 
 	<ItemGroup>
